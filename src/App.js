@@ -18,3 +18,5 @@ function App() {
 }
 
 export default App;
+
+// TODO: add favicon, make mobile friendly
