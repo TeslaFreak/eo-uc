@@ -9,8 +9,14 @@ function App() {
           <Canvas />
         </div>
         <div className="container">
-          <h1>Coming Soon</h1>
-          <h3>Get ready to escape</h3>
+          <div className="textContainer frontTextContainer">
+            <h1>Coming Soon</h1>
+            <h3>Get ready to escape</h3>
+          </div>
+          <div className="textContainer backTextContainer">
+            <h1>Coming Soon</h1>
+            <h3>Get ready to escape</h3>
+          </div>
         </div>
       </header>
     </div>
