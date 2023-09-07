@@ -68,12 +68,12 @@ body {
   grid-area: 1 / 1 / 2 / 2;
   mix-blend-mode: revert;
   opacity: 0.55;
+  box-shadow: 10px 10px 10px black;
 }
 
 .backTextContainer {
   z-index: 4;
   grid-area: 1 / 1 / 2 / 2;
-
   color: white;
   mix-blend-mode: color-burn;
 }
